@@ -1,2 +1,3 @@
-# Atividade 01 Fiscomp 
-Atividade Básica da matéria de Fisica computacional 
+# Fisica Computacional
+
+Atividades Básicas da matéria de Fisica computacional 
