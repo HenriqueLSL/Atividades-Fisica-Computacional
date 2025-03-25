@@ -1,3 +1,3 @@
 # Fisica Computacional
 
-Atividades Básicas da matéria de Fisica computacional 
+Atividades da matéria de Fisica computacional!!!
